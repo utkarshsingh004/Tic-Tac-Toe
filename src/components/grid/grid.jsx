@@ -44,6 +44,7 @@ function Grid({ numberOfCards }) {
     setBoard(Array(numberOfCards).fill(""));
     setResult(false);
     setCount(0)
+    setTied(false)
   }
 
   return (
