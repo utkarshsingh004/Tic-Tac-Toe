@@ -6,7 +6,7 @@
     justify-content: space-between;
     align-items: center;
     /* margin-left: 30%; */
-    margin-top: 8%
+    margin-top: 2%
 }
 
 .turn-highlight {
@@ -16,7 +16,6 @@
 
 .grid-wrapper {
     text-align: center;
-    margin-top: 10%;
     justify-items: center;
     /* border: 2px solid red; */
 }
